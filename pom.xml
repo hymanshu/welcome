@@ -16,8 +16,7 @@
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<stopKey>foo</stopKey>
 					<stopPort>9999</stopPort>
-				</configuration>
-				
+				</configuration>				
 			</plugin>
 		</plugins>
 	</build>
